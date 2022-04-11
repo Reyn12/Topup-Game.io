@@ -55,8 +55,21 @@ body {
 /*Akhir Button Keranjang dan Beli*/
 
 /*Masukkan-id*/
-.Masukkan-id {
-    justify-content: evenly;
+.form-control {
+    width: 100%;
+    font-size: .9rem;
 }
+
+.form-group {
+    align-items: center;
+    width: 100%;
+    
+}
+
+.card-body {
+
+    padding: 1rem
+}
+
 
 /*Akhir Masukkan-id*/
